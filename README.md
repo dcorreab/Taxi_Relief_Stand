@@ -2,7 +2,8 @@
 
 Center for Urban Science and Progress 2017 Capstone
 
-## Project Sponser:  NYC Taxi and Limousine Commission
+## Project Sponser:  
+**NYC Taxi and Limousine Commission**
 
 ## Members:
 **Cheng Hou**, ch3019
