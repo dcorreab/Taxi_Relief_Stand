@@ -3,15 +3,15 @@
 CUSP 2017 Capstone
 
 ## Members:
-** Cheng Hou**, ch3019
+**Cheng Hou**, ch3019
 
-** Le Xu**, lx565
+**Le Xu**, lx565
 
-** Vishwajeet Shelar**, vys217
+**Vishwajeet Shelar**, vys217
 
-** Yao Wang**, yw2278
+**Yao Wang**, yw2278
 
 ## Advisors:
-** Dr. Kaan Ozbay**
+**Dr. Kaan Ozbay**
 
-** Dr. Huy Vo**
+**Dr. Huy Vo**
