@@ -1,5 +1,7 @@
 # Optimizing the Location and Use of Taxi/FHV Relief Stands
 
+Report: https://www.authorea.com/users/156356/articles/177977-optimizing-the-location-and-use-of-taxi-fhv-relief-stands
+
 Center for Urban Science and Progress 2017 Capstone
 
 ## Project Sponser:  
